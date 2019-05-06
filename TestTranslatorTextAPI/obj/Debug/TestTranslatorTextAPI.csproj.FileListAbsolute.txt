@@ -1,0 +1,10 @@
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\bin\Debug\TestTranslatorTextAPI.exe.config
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\bin\Debug\TestTranslatorTextAPI.exe
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\bin\Debug\TestTranslatorTextAPI.pdb
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\obj\Debug\TestTranslatorTextAPI.csprojAssemblyReference.cache
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\obj\Debug\TestTranslatorTextAPI.csproj.CoreCompileInputs.cache
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\obj\Debug\TestTranslatorTextAPI.exe
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\obj\Debug\TestTranslatorTextAPI.pdb
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\bin\Debug\Newtonsoft.Json.dll
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\bin\Debug\Newtonsoft.Json.xml
+C:\developer\TestTranslatorTextAPI\TestTranslatorTextAPI\obj\Debug\TestTranslatorTextAPI.csproj.CopyComplete

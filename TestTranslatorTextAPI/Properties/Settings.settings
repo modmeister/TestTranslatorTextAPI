@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestTranslatorTextAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="baseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.cognitive.microsofttranslator.com</Value>
+    </Setting>
+    <Setting Name="subscriptionKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">a31ed354c3bb4a84ae4a38e18d07ae77</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
