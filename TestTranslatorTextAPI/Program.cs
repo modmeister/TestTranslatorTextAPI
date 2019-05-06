@@ -52,9 +52,9 @@ namespace TestTranslatorTextAPI
 
                 var response = client.SendAsync(request).Result;
                 var responseContent = response.Content.ReadAsStringAsync().Result;
-                var jsonresponseContent = FormatStringAsJson(responseContent);
+                var jsonResponseContent = FormatStringAsJson(responseContent);
 
-                return jsonresponseContent;
+                return jsonResponseContent;
             }
         }
 
